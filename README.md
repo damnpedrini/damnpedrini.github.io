@@ -10,6 +10,6 @@ On this website, you will find details about my experience, projects I have work
 
 - HTML
 - CSS
-- JavaScrip
+- JavaScript
 
 POWERED BY SAKURA CODE PROJECTS

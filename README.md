@@ -4,7 +4,7 @@ Welcome to the repository of my personal website, developed by Sakura Code Proje
 
 ## About
 
-On this website, you will find details about my experience, projects I have worked on, and how to get in touch with me. Feel free to explore and learn more about what I do.
+On this website, you will find details about my experience, projects I have worked on, and how to get in touch with me. Feel free to explore and learn more about what I do. You can access it at pedrini.dev.br
 
 ## Technologies Used
 
